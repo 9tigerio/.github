@@ -1,5 +1,5 @@
 # **9TIGER.io**
-# ![9TIGER_black_600](https://github.com/user-attachments/assets/d6cb9c66-3cb7-4a3f-a609-ba1a7b74d412)
+
 
 Welcome!
 
